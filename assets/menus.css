@@ -106,7 +106,7 @@ nav ul ul ul {
 	left: 95%;
 	top: 5px;
 }
-/* First Level Menu*/
+/* First Level Menu */
 nav > ul {
 	padding-left: 35px;
 }
@@ -116,6 +116,11 @@ nav > ul > li {
 nav > ul > li > a {
 	padding: 10px 20px 15px 20px;
 	width: auto;
+}
+
+/* Sub link 3 */
+nav .sign {
+	font-weight: bold;
 }
 @media screen and (max-width: 750px) {
 	
